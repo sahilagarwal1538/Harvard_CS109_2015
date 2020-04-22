@@ -1,6 +1,7 @@
 # 2015
 
-##The class website(videos, ordering, links etc.) https://cs109.github.io/2015/pages/videos.html
+## The class website(videos, ordering, links etc.) https://cs109.github.io/2015/pages/videos.html
+
 ##Lectures
 
 The Lecture slides up to Lecture 1 are in this repository. Just click on the Lectures Folder.
